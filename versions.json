@@ -1,1 +1,1 @@
-json = {"test.py": {"version": "1.0", "path": "static/"}, "time.txt": {"version": "1.0", "path": ""},"utils.py": {"version": "1.0", "path": "static/css"}}
+{"test.py": {"version": "1.0", "path": "static/"}, "time.txt": {"version": "1.0", "path": ""},"utils.py": {"version": "1.0", "path": "static/css"}}
